@@ -1,0 +1,8 @@
+.home-container{
+    color:var(--text-color-primary)
+}
+
+.main-heading {
+    font-size: 4rem;
+    line-height: 4rem;
+}
